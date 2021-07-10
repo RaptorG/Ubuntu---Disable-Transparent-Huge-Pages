@@ -1,0 +1,1 @@
+# Ubuntu---Disable-Transparent-Huge-Pages
